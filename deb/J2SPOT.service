@@ -1,0 +1,14 @@
+[Unit]
+Description=J2SPOT honeypot
+After=network.target
+
+[Service]
+Type=simple
+User=j2spot
+WorkingDirectory=/home/j2spot
+ExecStart=/usr/bin/python -m nanopot /etc/nanopot.ini
+Restart=on-failure
+#Other Restart option:or always, on abort, etc
+
+[Install]
+WantedBy=multi-user.target 

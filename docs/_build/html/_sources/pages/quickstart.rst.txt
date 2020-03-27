@@ -1,0 +1,44 @@
+J2SPOT quickstart!!!...
+=======================
+
+J2SPOT is  a simple TCP honeypot for your system written in Python3.
+
+How to install (installation):
+++++++++++++++++++++++++++++++
+
+  python -m pip install J2SPOT
+  
+Running:
+********
+
+  python -m J2SPOT
+  
+To install as debian package:
+-----------------------------
+
+Get the '.deb' package from Github releases and then run:!!!
+
+ sudo dpkg -i J2SPOT-1.0.0.deb
+ 
+""To enable the honeypot-J2SPOT service in your system --type: ""
+ 
+ sudo systemctl enable J2SPOT
+ 
+ [TO SEE THE LOGS GO TO ] :
+ 
+   "/var/log/J2SPOT.log".
+   
+  [config defaults to]:
+  
+  "/etc/J2SPOT.ini". 
+
+Source code:
+############
+
+https://github.com/codingpsych72/J2SPOT
+
+Documentation:
+@@@@@@@@@@@@@@
+
+
+https://J2SPOT.rtfd.io

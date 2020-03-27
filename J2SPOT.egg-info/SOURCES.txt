@@ -1,0 +1,11 @@
+README.rst
+setup.py
+J2SPOT/__init__.py
+J2SPOT/__main__.py
+J2SPOT/config_loader.py
+J2SPOT/funcs.py
+J2SPOT.egg-info/PKG-INFO
+J2SPOT.egg-info/SOURCES.txt
+J2SPOT.egg-info/dependency_links.txt
+J2SPOT.egg-info/not-zip-safe
+J2SPOT.egg-info/top_level.txt

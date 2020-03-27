@@ -1,0 +1,7 @@
+Package:J2SPOT
+Version:1.0.0
+Maintainer:codingpsych72 <mohammedsharoz72@gmail.com>
+Description:Simple TCP honeypot for the system written in python3
+Homepage:https://github.com/codingpsych72/J2SPOT
+Architecture:all
+Depends:python3

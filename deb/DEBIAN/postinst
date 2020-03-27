@@ -1,0 +1,5 @@
+#!/bin/bash
+useradd j2spot
+mkdir /home/j2spot
+python3 -m pip install /opt/J2SPOT-1.0.0.tar.gz
+systemctl enable J2SPOT
