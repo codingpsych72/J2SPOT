@@ -1,5 +1,5 @@
 # tcp_honeypot
-A simple TCP honeypot done as a project as a team (J2S)
+A simple TCP honeypot done as a mini project as a team (J2S-->Janan,Jousha,Sharoz).
 
 #HONEYPOT:
 
